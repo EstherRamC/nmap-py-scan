@@ -16,11 +16,6 @@ nmap-py-scan is a powerful, user-friendly tool designed to automate network scan
 ### Prerequisites
 - Python 3.x
 - Nmap installed on your system
-- python-nmap library (instructions below)
-
-### Installation
-1. Clone the repository: git clone https://github.com/yourusername/PyMapScan.git
-2. Install required Python libraries: pip install -r requirements.txt
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
