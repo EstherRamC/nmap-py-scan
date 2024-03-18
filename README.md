@@ -11,11 +11,6 @@ nmap-py-scan is a powerful, user-friendly tool designed to automate network scan
 - **User-Friendly Python API**: Simplify complex Nmap scans with an easy-to-use Python library.
 - **Flexible Output Formats**: Save scan results in various formats for further analysis or reporting.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Nmap installed on your system
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
